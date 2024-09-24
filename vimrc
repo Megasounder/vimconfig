@@ -9,3 +9,6 @@ set wrap
 
 "set color number line
 highlight LineNr ctermfg=blue
+
+"Syntax highlighting
+syntax on
